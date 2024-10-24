@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\StudentGradeApp\StudentGradeApp\obj\Debug\StudentGradeApp.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\StudentGradeApp\StudentGradeApp\obj\Debug\StudentGradeApp.Form1.resources
+C:\Users\PC\source\repos\StudentGradeApp\StudentGradeApp\obj\Debug\StudentGradeApp.Properties.Resources.resources
+C:\Users\PC\source\repos\StudentGradeApp\StudentGradeApp\obj\Debug\StudentGradeApp.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\StudentGradeApp\StudentGradeApp\obj\Debug\StudentGradeApp.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\StudentGradeApp\StudentGradeApp\bin\Debug\StudentGradeApp.exe.config
+C:\Users\PC\source\repos\StudentGradeApp\StudentGradeApp\bin\Debug\StudentGradeApp.exe
+C:\Users\PC\source\repos\StudentGradeApp\StudentGradeApp\bin\Debug\StudentGradeApp.pdb
+C:\Users\PC\source\repos\StudentGradeApp\StudentGradeApp\obj\Debug\StudentGradeApp.exe
+C:\Users\PC\source\repos\StudentGradeApp\StudentGradeApp\obj\Debug\StudentGradeApp.pdb
